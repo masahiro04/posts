@@ -3,7 +3,8 @@
     "title": "NextPage<Props>でhoge is missing in props validationが出る",
     "date": "2022-05-06T14:59:11",
     "categories": "Next.js, React",
-}```
+}
+```
 
 ```
  React.FC では発生しないエラーがNextPageを使ったところ発生しました

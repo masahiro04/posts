@@ -3,7 +3,8 @@
     "title": "XcodeでimageLiteralが出てこない",
     "date": "2022-07-10T02:15:46",
     "categories": "iOS, Swift, 未分類",
-}```
+}
+```
 
 Xcode 13.2.1でimageLiteralがサジェストで出てこなく、調べてみたら記述方法が変わったとのことです
 

@@ -3,7 +3,8 @@
     "title": "Access denied for user &#8216;root&#8217;@&#8217;localhost&#8217; (using password: NO)",
     "date": "2022-01-11T23:19:31",
     "categories": "MySQL, WordPress",
-}```
+}
+```
 
 railsでmysqlを動かしていたところ、タイトルのエラーが発生
 

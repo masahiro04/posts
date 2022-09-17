@@ -3,7 +3,8 @@
     "title": "docker + rails + capybaraでSelenium::WebDriver::Error::UnknownError",
     "date": "2022-04-28T23:10:16",
     "categories": "Docker, Ruby on Rails",
-}```
+}
+```
 
 dockerでRailsのcapybaraテストをjs trueで実装したところ、タイトルのエラーが発生しました
 

@@ -3,7 +3,8 @@
     "title": "Flutter cameraで枠ありのUIを実装する方法",
     "date": "2022-06-29T17:56:59",
     "categories": "Dart, Flutter",
-}```
+}
+```
 
 Flutterでカメラ画面で特定の枠を切り抜いているようなUIの実装で少し時間をとってしまったので、記事にしておいてみました
 

@@ -3,7 +3,8 @@
     "title": "jestで全てpassなのにexit status1が出る",
     "date": "2022-03-30T11:52:00",
     "categories": "jest, React, React Testing Library",
-}```
+}
+```
 
 jestで全てのtestをpassしているにもかかわらず、なぜかexit status1が出る、という問題が発生しました
 

@@ -3,7 +3,8 @@
     "title": "Rails + ransackで正しいはずなのになぜか検索が思っていた通りに動かない時の参考点",
     "date": "2022-02-01T00:24:12",
     "categories": "Ruby on Rails",
-}```
+}
+```
 
 結論、enumでintではなくstringで検索していたから、です
 

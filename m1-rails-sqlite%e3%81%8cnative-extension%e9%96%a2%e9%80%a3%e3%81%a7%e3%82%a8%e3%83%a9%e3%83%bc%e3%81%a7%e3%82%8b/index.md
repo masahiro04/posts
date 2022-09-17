@@ -3,7 +3,8 @@
     "title": "M1 + Rails + SQLiteがnative extension関連でエラーでる",
     "date": "2022-01-24T00:18:34",
     "categories": "Ruby on Rails, SQLite",
-}```
+}
+```
 
 こちらがエラーの詳細
 

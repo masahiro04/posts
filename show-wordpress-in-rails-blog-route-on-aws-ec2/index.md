@@ -3,7 +3,8 @@
     "title": "AWS EC2でRailsの/blogルートでWordPressを表示する",
     "date": "2022-01-16T17:07:46",
     "categories": "AWS, EC2, Nginx, Ruby on Rails",
-}```
+}
+```
 
 ```
  Railsの/blog ルートでwordpressを表示しようと思ったら、思いの他詰まってしまったので、後続の方もいらっしゃるかと思って、記事にまとめました🙏

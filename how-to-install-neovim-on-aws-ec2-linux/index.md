@@ -3,7 +3,8 @@
     "title": "AWS EC2 LinuxでNeovimを導入する方法",
     "date": "2022-01-14T17:14:04",
     "categories": "AWS, EC2, Vim",
-}```
+}
+```
 
 普段Neovimで開発しており、最低限のvim操作を行うために導入しました
 

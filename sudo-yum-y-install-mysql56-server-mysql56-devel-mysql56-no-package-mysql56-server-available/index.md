@@ -3,7 +3,8 @@
     "title": "sudo yum -y install mysql56-server mysql56-devel mysql56 No package mysql56-server available",
     "date": "2022-01-12T15:30:41",
     "categories": "AWS, MySQL",
-}```
+}
+```
 
 AWSのEC2でMySQLを構築しようとしたところ、タイトルのエラーが発生しました
 

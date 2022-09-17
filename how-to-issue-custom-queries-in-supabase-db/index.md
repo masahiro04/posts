@@ -3,7 +3,8 @@
     "title": "Supabase dbでカスタムなqueryを発行する方法",
     "date": "2022-08-02T14:35:34",
     "categories": "PostgreSQL, Supabase",
-}```
+}
+```
 
 SQL Editorでカスタムなqueryの登録試みていたのですが、エラーが発生し結構詰まってしまったので記事にしてみました
 

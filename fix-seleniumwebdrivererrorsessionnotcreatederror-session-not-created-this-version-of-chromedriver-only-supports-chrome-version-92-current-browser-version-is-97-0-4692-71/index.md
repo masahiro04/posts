@@ -3,7 +3,8 @@
     "title": "Selenium::WebDriver::Error::SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 92 Current browser version is 97.0.4692.71の解決方法",
     "date": "2022-01-17T23:46:52",
     "categories": "Chromedriver, Rspec, Ruby on Rails",
-}```
+}
+```
 
 定期的にタイトルのエラーが発生するのですが、いつも苦労して気がついたら治ってて。。。。<br>みたいなことの連続なので、今回はメモとして残してみました
 

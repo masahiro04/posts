@@ -3,7 +3,8 @@
     "title": "AWS EC2 + Railsで急に502エラーが発生した",
     "date": "2022-01-15T19:43:27",
     "categories": "AWS, EC2, Ruby on Rails",
-}```
+}
+```
 
 何もしていないけど、急に502のエラー画面が出現してlogを漁ってみたところ
 

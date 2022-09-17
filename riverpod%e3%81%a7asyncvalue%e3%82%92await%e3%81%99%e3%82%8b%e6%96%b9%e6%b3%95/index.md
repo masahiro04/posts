@@ -3,7 +3,8 @@
     "title": "RiverpodでAsyncValueをawaitする方法",
     "date": "2022-05-24T11:00:29",
     "categories": "Flutter, Riverpod",
-}```
+}
+```
 
 Riverpodを用いて特定のfunction発火の際にawaitする方法でかなり詰まってしまったので、記事に残してます
 

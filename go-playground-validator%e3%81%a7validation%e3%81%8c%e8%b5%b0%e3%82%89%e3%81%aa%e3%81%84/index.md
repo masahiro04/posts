@@ -3,7 +3,8 @@
     "title": "go-playground/validatorでvalidationが走らない",
     "date": "2022-01-27T23:44:27",
     "categories": "Golang",
-}```
+}
+```
 
 structにvalidationを実装していて、なぜかvalidationが発火しない事件が発生しました
 

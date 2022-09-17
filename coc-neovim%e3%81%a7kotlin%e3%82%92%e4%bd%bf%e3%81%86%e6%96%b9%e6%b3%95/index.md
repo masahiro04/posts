@@ -3,7 +3,8 @@
     "title": "coc + neovimでkotlinを使う方法",
     "date": "2022-03-05T01:13:53",
     "categories": "Android, kotlin",
-}```
+}
+```
 
 Android開発をAndroid studioではなくvimで行いたくて、色々と詰まった箇所あるので記事にしてみました
 

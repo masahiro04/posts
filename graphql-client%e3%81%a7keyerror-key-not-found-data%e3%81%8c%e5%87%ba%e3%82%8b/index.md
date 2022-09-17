@@ -3,7 +3,8 @@
     "title": "graphql-clientでKeyError: key not found: &#8220;data&#8221;が出る",
     "date": "2022-01-29T20:08:01",
     "categories": "GraphQL, Ruby on Rails",
-}```
+}
+```
 
 Railsでwordpressからgraphql経由で記事取得しようとしたら、タイトルのエラーが発生しました
 

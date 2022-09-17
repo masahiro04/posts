@@ -3,7 +3,8 @@
     "title": "AWS EC2 Linux でgem install mysql2 -v &#8216;0.5.3&#8217;するとエラーが出る",
     "date": "2022-01-16T13:21:07",
     "categories": "AWS, EC2, MySQL, Ruby on Rails",
-}```
+}
+```
 
 AWS EC2でrails環境を構築中にタイトルコマンド実行でエラーが発生しました
 

@@ -3,7 +3,8 @@
     "title": "Cloud Formationでcreate stackするとTemplate format error: unsupported structureが出る",
     "date": "2022-04-30T00:46:44",
     "categories": "Cloud Formation",
-}```
+}
+```
 
 Cloud Formationをcreate stackしたところタイトルのエラーが発生しました
 

@@ -3,7 +3,8 @@
     "title": "Xcodeで実機デバッグ試すとThis operation can fail if the version of the OS on the device is incompatible&#8230;と出る",
     "date": "2022-07-10T18:35:19",
     "categories": "iOS, Swift, 未分類",
-}```
+}
+```
 
 Xcodeで実機デバッグを試みたところ、下記のエラーが発生しました
 

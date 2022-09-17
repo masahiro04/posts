@@ -3,7 +3,8 @@
     "title": "margin 0 auto とmargin-topを共存させる方法",
     "date": "2022-02-11T15:05:14",
     "categories": "CSS",
-}```
+}
+```
 
 ```css
  // だめ

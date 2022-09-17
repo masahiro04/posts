@@ -3,7 +3,8 @@
     "title": "Nginx + サブディレクトリ wordpressでパーマリンク変更後に404が出る",
     "date": "2022-01-29T01:38:36",
     "categories": "AWS, EC2, Nginx",
-}```
+}
+```
 
 ```
  /magazine でwordpressを設置しているプロジェクトでパーマリンクを変更したところ、タイトルのようなエラーが発生しました

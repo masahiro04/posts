@@ -3,7 +3,8 @@
     "title": "IntelliJ/Android Studioでvimを使う方法",
     "date": "2022-05-17T15:32:04",
     "categories": "Android Studio, IntelliJ, Vim",
-}```
+}
+```
 
 普段NeoVimで開発を行なっているのですが、スマホアプリを開発するにあたってemulatorや解析等々のツールを使った方が良いと思い、Android Studioでもvimが使えるようにしてみました
 

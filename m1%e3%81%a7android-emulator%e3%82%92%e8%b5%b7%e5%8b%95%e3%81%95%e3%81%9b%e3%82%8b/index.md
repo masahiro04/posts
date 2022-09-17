@@ -3,7 +3,8 @@
     "title": "M1でAndroid emulatorを起動させる",
     "date": "2022-05-18T21:04:10",
     "categories": "Android, Android Studio",
-}```
+}
+```
 
 M1でAndroid emulator起動させようとしたら下記のエラーが発生しました
 

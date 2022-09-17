@@ -3,7 +3,8 @@
     "title": "call dein#recache_runtimepath()でUndefined variable: v:luaエラー",
     "date": "2022-03-26T03:56:21",
     "categories": "Vim",
-}```
+}
+```
 
 deinのcacheを削除してもう一度再生成を試みていたところタイトルのエラーが発生しました
 

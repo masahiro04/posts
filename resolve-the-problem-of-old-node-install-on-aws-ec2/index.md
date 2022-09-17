@@ -3,7 +3,8 @@
     "title": "AWS EC2で古いnodeがinstallされる問題の解消",
     "date": "2022-01-13T02:05:43",
     "categories": "AWS",
-}```
+}
+```
 
 AWSのEC2でver 14のnode入れているはずなのに、6系が毎度installされる問題が発生しました
 

@@ -3,7 +3,8 @@
     "title": "Uncaught TypeError: Cannot assign to read only property &#8216;exports&#8217; of object &#8216;#<Object>&#8216;",
     "date": "2022-04-14T21:16:35",
     "categories": "React, Ruby on Rails",
-}```
+}
+```
 
 Rails + Reactでタイトルのエラーが発生しました
 

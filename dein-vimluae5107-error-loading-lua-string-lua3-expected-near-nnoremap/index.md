@@ -3,7 +3,8 @@
     "title": "[dein] Vim(lua):E5107: Error loading lua [string &#8220;:lua&#8221;]:3: &#8216;=&#8217; expected near &#8216;nnoremap&#8217;",
     "date": "2022-08-08T16:00:37",
     "categories": "Vim",
-}```
+}
+```
 
 NeoVimでLuaを導入したところタイトルのエラーが発生しました
 

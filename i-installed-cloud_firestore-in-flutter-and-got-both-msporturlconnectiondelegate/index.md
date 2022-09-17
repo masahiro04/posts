@@ -3,7 +3,8 @@
     "title": "Flutterにcloud_firestore導入したらAMSupportURLConnectionDelegate is implemented in bothが出た",
     "date": "2022-08-04T18:18:57",
     "categories": "Firebase, Flutter, Swift, Xcode",
-}```
+}
+```
 
 FlutterにFirebase追加したら下記のエラーが発生しました
 

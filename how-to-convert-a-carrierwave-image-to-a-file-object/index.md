@@ -3,7 +3,8 @@
     "title": "Carrierwaveの画像をFile Objectに変換する方法",
     "date": "2022-04-26T20:11:10",
     "categories": "Ruby on Rails",
-}```
+}
+```
 
 Carrierwaveに登録した画像を別のモデルに移行するために変換試みたのですが、意外に時間を使ってしまったので次回のために記事にしました
 

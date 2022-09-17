@@ -3,7 +3,8 @@
     "title": "AWS + Rails + Capistranoで何もエラーないのに表示されない問題",
     "date": "2022-01-14T01:50:36",
     "categories": "AWS, EC2, Ruby on Rails",
-}```
+}
+```
 
 タイトルの通りで、
 

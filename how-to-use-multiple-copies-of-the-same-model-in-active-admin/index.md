@@ -3,7 +3,8 @@
     "title": "Active Adminで同じModelを複数使う方法",
     "date": "2021-12-08T14:38:08",
     "categories": "Ruby on Rails",
-}```
+}
+```
 
 User.roleに応じて実装する方法を探していたところ、継承で実装できそうなので試したところうまくいきました
 

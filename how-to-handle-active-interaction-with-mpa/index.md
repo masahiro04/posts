@@ -3,7 +3,8 @@
     "title": "Active InteractionをMPAでハンドリングする方法",
     "date": "2022-06-26T15:34:00",
     "categories": "Ruby on Rails",
-}```
+}
+```
 
  普段はAPI開発で利用しているので、Active recordのerrorsに入れるというよりもMapやList形式でエラーを返しているのですが、createが失敗した時のnewをレンダリングする際にちょこっとはまったので記事にしました
 

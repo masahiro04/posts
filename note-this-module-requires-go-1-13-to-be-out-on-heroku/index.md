@@ -3,7 +3,8 @@
     "title": "note: module requires Go 1.13がHerokuで出る",
     "date": "2022-03-26T21:16:51",
     "categories": "Golang, Heroku",
-}```
+}
+```
 
 go.modにversionを指定しているのですが、なぜかタイトルのエラーが発生しました
 

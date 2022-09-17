@@ -3,7 +3,8 @@
     "title": "Next.jsのrouterでundefinedが出る問題",
     "date": "2022-01-30T15:23:13",
     "categories": "Next.js, React",
-}```
+}
+```
 
 Next.jsでrouter経由でparamsを取得しようとした際に、undefinedが出る問題が発生しましたが、下記のようにreadyしたタイミングに変更したところ、問題なく動きました
 

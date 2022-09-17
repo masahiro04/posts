@@ -3,7 +3,8 @@
     "title": "AWS + Rails + Capistrano でGemfile not found (Bundler::GemfileNotFound)出る",
     "date": "2022-01-14T00:16:01",
     "categories": "AWS, EC2, Ruby on Rails",
-}```
+}
+```
 
 Capistranoでデプロイできているようですが、サーバー起動せずlog見たらタイトルのエラー出てました
 

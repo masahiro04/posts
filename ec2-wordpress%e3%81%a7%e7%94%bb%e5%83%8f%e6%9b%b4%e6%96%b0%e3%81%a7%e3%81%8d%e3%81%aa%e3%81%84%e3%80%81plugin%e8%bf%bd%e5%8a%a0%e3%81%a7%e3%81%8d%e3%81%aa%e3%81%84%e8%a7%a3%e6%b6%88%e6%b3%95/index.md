@@ -3,7 +3,8 @@
     "title": "EC2 + wordpressで画像更新できない、plugin追加できない解消法",
     "date": "2022-01-29T19:05:46",
     "categories": "AWS, Nginx, WordPress",
-}```
+}
+```
 
 EC2にwordpressを設定して、色々修正を加えているうちになぜか
 

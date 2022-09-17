@@ -3,7 +3,8 @@
     "title": "Rails + Haml + Tailwindで Illegal nesting: nesting within a self-closing tag is illegal エラー",
     "date": "2021-12-07T17:06:27",
     "categories": "Ruby on Rails, Tailwind",
-}```
+}
+```
 
 Rails + Haml + Tailwindで実装していたら、タイトルのエラーが発生しました
 

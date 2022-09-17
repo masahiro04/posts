@@ -3,7 +3,8 @@
     "title": "Rails + WebpackerでERROR in chunk application [entry] js/[name]-[contenthash].jsが発生",
     "date": "2022-06-09T01:10:41",
     "categories": "Ruby on Rails",
-}```
+}
+```
 
 Railsの各種packageのバージョンアップを行なっていたところタイトルのエラーが発生しました
 

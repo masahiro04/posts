@@ -3,7 +3,8 @@
     "title": "RailsでPostgreSQLをdump importした後にduplicate key value violates unique constraintが出る",
     "date": "2022-05-11T21:20:48",
     "categories": "PostgreSQL, Ruby on Rails",
-}```
+}
+```
 
 RailsのプロジェクトでStagingのDBをdevelopmentに入れたところタイトルのエラーが発生しました
 
